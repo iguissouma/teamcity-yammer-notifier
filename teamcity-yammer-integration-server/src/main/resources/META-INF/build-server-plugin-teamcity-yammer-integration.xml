@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans default-autowire="constructor">
+
+    <bean id="yammerNotificationListener" class="org.igu.teamcity.YammerNotificationListener" init-method="register"/>
+    <bean id="yammerNotificator" class="org.igu.teamcity.YammerNotificator"/>
+    <bean id="yammerNotificationMainSettings" class="org.igu.config.YammerNotificationMainSettings" init-method="register"/>
+    <bean id="yammerAdminPage" class="org.igu.ui.YammerAdminPage"/>
+    <bean id="yammerNotifierSettingsController" class="org.igu.ui.YammerNotifierSettingsController"/>
+    <bean id="yammerNotificationMainConfig" class="org.igu.config.YammerNotificationMainConfig"/>
+</beans>

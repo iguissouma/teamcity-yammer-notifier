@@ -1,0 +1,24 @@
+tr.onCompletionDisabled td {
+	color: #ccc;
+}
+
+input[type=checkbox], input[type=radio] {
+	vertical-align:middle;
+}
+
+div#buildList{
+	padding: 1em;
+}
+
+div#buildPane {
+    overflow: scroll;
+}
+
+label {
+	padding: 0.5em;
+	border-top: 1px black;
+}
+
+.yammerNotificationRowTemplate {
+	display:none;
+}

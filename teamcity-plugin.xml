@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:shemas-jetbrains-com:teamcity-plugin-v1-xml">
+  <info>
+    <name>teamcity-yammer-integration</name>
+    <display-name>Yammer</display-name>
+    <version>@Version@</version>
+    <description>Post messages to your yammer group for build events.</description>
+    <download-url>http://no-download-yet.com/</download-url>
+    <email>issam.guissouma@laposte.net</email>
+    <vendor>
+      <name>Issam GUISSOUMA</name>
+      <url>http://no-site.com/</url>
+      <logo>http://no-logo.com</logo>
+    </vendor>
+  </info>
+  <deployment use-separate-classloader="true" />
+</teamcity-plugin>

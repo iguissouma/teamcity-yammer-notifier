@@ -1,0 +1,34 @@
+#yammerNotificationErrors ul li {
+    color: red;
+}
+
+#yammerTokenErrors ul li {
+    color: red;
+}
+
+.yammer-config-errors ul li {
+    color: red;
+}
+
+.yammerNotifierVersionInfo {
+    color: #888;
+    font-size: 90%;
+    float:right;
+}
+
+
+.yammerConfigDialog th {
+    text-align: left;
+}
+.yammerConfigDialog  {
+    width: 500px;
+}
+.yammerConfigDialog input[type="text"] {
+    width: 25em;
+    margin-left: 0.5em;
+}
+
+.yammerConfigDialog input[type="password"] {
+    width: 25em;
+    margin-left: 0.5em;
+}
