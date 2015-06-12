@@ -11,7 +11,7 @@ This is an example of a successful build notification sent as a private message:
 ![Successful Build Notification](/docs/yammer-message.png)
 
 ## Installation
-Download the [plugin zip package](/dist/V1.0.0/teamcity-yammer-integration.zip).
+Download the [plugin zip package](https://github.com/iguissouma/teamcity-yammer-notifier/raw/master/dist/v1.0.0/teamcity-yammer-integration.zip).
 
 Follow the TeamCity [plugin installation directions](http://confluence.jetbrains.com/display/TCD9/Installing+Additional+Plugins).
 
