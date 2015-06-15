@@ -66,3 +66,6 @@ Tested exclusively with TeamCity version 9.0.3.
 [Issam GUISSOUMA](https://twitter.com/iguissouma)
 
 
+## License
+
+Code released under [the MIT license](https://github.com/iguissouma/teamcity-yammer-notifier/blob/master/LICENSE).
